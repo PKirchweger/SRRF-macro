@@ -3,6 +3,7 @@
 // https://sites.imagej.net/NanoJ/
 // https://sites.imagej.net/NanoJ-SQUIRREL/
 // https://sites.imagej.net/NanoJ-SRRF/
+// https://biop.epfl.ch/Fiji-Update/
 
 #@File(label = "Choose an output folder", style = "directory") output_folder
 #@File(label = "Image to process") image_file
