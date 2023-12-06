@@ -1,4 +1,4 @@
-**SRRF.py**
+**# SRRF.py**
 
 A Python script to automatically perform SRRF analysis (https://github.com/HenriquesLab) with several different settings directly from the FIJI scripting window.
 
@@ -15,7 +15,9 @@ biop.epfl.ch/Fiji-Update/;
 - It will ask you for the folder where to place the results 
 
 
-**SRRF-macro**
+
+
+**# SRRF-macro**
 This Macro was written by Prabhu Prasad Swain and we published it in (https://doi.org/10.1016/j.jsb.2023.107982)
 
 
